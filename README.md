@@ -1,10 +1,6 @@
 # Hi, I'm Niloy Ahsan! 👋
 ## A budding enthusiast on a daily quest for knowledge!
 
-<p align = "left">
-<img src="https://imgur.com/a/xftoi9m" alt="Profile Picture" width="800">
-</p>
-
 - 👀 I’m interested in: Website Design and Development, Frontend Technologies like HTML, CSS, JavaScript, and frameworks like React.
 - 🌱 I’m currently learning: Advanced Web Development techniques, UI/UX Design principles, and practicing my skills through building projects.
 - 📫 How to reach me: [niloyahsan786@gmail.com](mailto:niloyahsan786@gmail.com)
