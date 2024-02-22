@@ -1,7 +1,7 @@
 # Hi, I'm Niloy Ahsan! 👋
 ## A budding enthusiast on a daily quest for knowledge!
 
-<p align = "center">
+<p align = "left">
 <img src="https://imgur.com/a/xftoi9m" alt="Profile Picture" width="800">
 </p>
 
