@@ -1,7 +1,7 @@
 # Hi, I'm Niloy Ahsan! 👋
 ## A budding enthusiast on a daily quest for knowledge!
 
-[Profile Picture](https://imgur.com/a/xftoi9m)
+![Profile Picture](https://imgur.com/a/xftoi9m)
 
 - 👀 I’m interested in: Website Design and Development, Frontend Technologies like HTML, CSS, JavaScript, and frameworks like React.
 - 🌱 I’m currently learning: Advanced Web Development techniques, UI/UX Design principles, and practicing my skills through building projects.
