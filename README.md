@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Social Links
 
-- [LinkedIn](link-to-your-linkedin-profile)
-- [Twitter](link-to-your-twitter-profile)
+- [LinkedIn](https://www.linkedin.com/in/niloyahsan/)
+- [Instagram](https://www.instagram.com/stories/ahsan_6.6/)
 - [Personal Website](link-to-your-personal-website)
