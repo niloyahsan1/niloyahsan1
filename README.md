@@ -1,4 +1,12 @@
+<!-- Profile Banner -->
 <h1>Hi👋, I'm Niloy Ahsan</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E6CFF&height=200&section=header&text=Hi%20There,%20I'm%20Niloy%20Ahsan!👋&fontSize=32&fontColor=ffffff&fontAlignY=40" alt="header" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack Laravel Developer;React %2B NodeJS+Enthusiast;Independent Researcher;Lifelong+Learner" />
+</p>
+
+---
 
 <h2>👨‍💻 About Me</h2>
 <p>I'm a Computer Science and Engineering undergraduate at BRAC University. Currently diving deep into web development while actively exploring research in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and Cloud Security. I enjoy building practical projects and expanding my knowledge through hands-on learning and collaboration. Passionate about solving real-world problems with technology, I’m always eager to learn, contribute and grow within the tech community.</p>
