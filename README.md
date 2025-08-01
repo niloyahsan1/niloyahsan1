@@ -1,10 +1,9 @@
 <!-- Profile Banner -->
-<h1>Hi👋, I'm Niloy Ahsan</h1>
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0E6CFF&height=200&section=header&text=Hi%20There,%20I'm%20Niloy%20Ahsan!👋&fontSize=32&fontColor=ffffff&fontAlignY=40" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E6CFF&height=200&section=header&text=Hi%20There,%20I'm%20Niloy%20Ahsan!👋&fontSize=32&fontColor=ffffff&fontAlignY=40" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack Laravel Developer;React %2B NodeJS+Enthusiast;Independent Researcher;Lifelong+Learner" />
-</p> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Laravel+Developer;React+%2B+NodeJS+Enthusiast;Independent+Researcher;Lifelong+Learner" />
+</p>
 
 ---
 
