@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=689B8A&height=200&section=header&text=Hi%20There,%20I'm%20Niloy%20Ahsan!👋&fontSize=30&fontColor=F2EDD1&fontAlignY=40" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=17313E&height=200&section=header&text=Hi%20There,%20I'm%20Niloy%20Ahsan!👋&fontSize=30&fontColor=F2EDD1&fontAlignY=40" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Laravel+Developer;React+%2B+NodeJS+Enthusiast;Independent+Researcher;Lifelong+Learner" />
@@ -73,20 +73,19 @@
 
 <h2>⚡️ Where to find me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://linkedin.com/in/johurul-abir)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=flat-square)](https://facebook.com/johurul.abir)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0E6CFF?style=flat-square)](https://webxperthub.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&style=flat-square)](mailto:johurulabir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/niloy1)
+[![Facebook](https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff)](https://www.facebook.com/niloy.ahsan09)
+[![Instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/ahsan_6.6/)
+[![YouTube](https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000)](https://www.youtube.com/@niloyahsan4641)
 
-<p><a target="_blank" href="https://www.linkedin.com/in/niloy-ahsan1" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a href="https://www.facebook.com/niloy.ahsan09" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/ahsan_6.6/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/channel/UCO4_vUVTXCk8ufjWLAdKRSA" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=niloyahsan1&show_icons=true&locale=en" alt="niloyahsan1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niloyahsan1&" alt="niloyahsan1" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=niloyahsan1&show_icons=true&locale=en&layout=compact" alt="niloyahsan1" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niloyahsan1" alt="niloyahsan1" /></a></p>
+<h2>📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niloyahsan1&show_icons=true&locale=en" alt="niloyahsan1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloyahsan1&" alt="niloyahsan1" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niloyahsan1&show_icons=true&locale=en&layout=compact" height="200" width="500" alt="niloyahsan1" />
+</p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=689B8A&height=120&section=footer"/>
