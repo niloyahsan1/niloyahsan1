@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=34699A&height=200&section=header&text=Hi%20There,%20I'm%20Niloy%20Ahsan!👋&fontSize=30&fontColor=F2EDD1&fontAlignY=40" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=34699A&height=200&section=header&text=Hi%20There,%20I'm%20Niloy%20Ahsan!👋&fontSize=30&fontColor=FDF5AA&fontAlignY=40" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Laravel+Developer;React+%2B+NodeJS+Enthusiast;Independent+Researcher;Lifelong+Learner" />
@@ -88,4 +88,4 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=689B8A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=34699A&height=120&section=footer"/>
