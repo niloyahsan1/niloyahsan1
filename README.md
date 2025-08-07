@@ -79,24 +79,18 @@
 [![YouTube](https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000)](https://www.youtube.com/@niloyahsan4641)
 
 ---
-<h2>📈 GitHub Stats</h2>
 
-<table align="center">
+<h2>📈 GitHub Stats</h2>
+<table align="center" style="border: none;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=niloyahsan1&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190" />
+      <img src="https://github-readme-stats.vercel.app/api?username=niloyahsan1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahsan1&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="190" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahsan1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="190" />
     </td>
   </tr>
 </table>
-
-<h2>📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niloyahsan1&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahsan1&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="190" width="500"/>
-</p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=34699A&height=120&section=footer"/>
