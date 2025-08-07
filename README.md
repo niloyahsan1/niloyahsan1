@@ -81,7 +81,7 @@
 ---
 
 <h2>📈 GitHub Stats</h2>
-<table align="center" style="border: none;">
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=niloyahsan1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190" />
