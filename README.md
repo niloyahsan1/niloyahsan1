@@ -82,8 +82,7 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niloyahsan1&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" width="500"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=niloyahsan1&theme=dracula&hide_border=true" height="150" width="500" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niloyahsan1&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190" width="500"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloyahsan1&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150" width="500"/>
 </p>
 
